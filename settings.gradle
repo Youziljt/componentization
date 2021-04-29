@@ -1,0 +1,6 @@
+include ':modulemain'
+include ':moduleone'
+include ':moduletwo'
+include ':modulelib'
+include ':app'
+rootProject.name = "Componentization"

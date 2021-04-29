@@ -1,0 +1,22 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.modulemain">
+
+    <application android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.example.modulemain.MainActivity"
+            tools:ignore="MissingClass">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name="com.example.modulemain.ShowFragmentActivity"
+            tools:ignore="MissingClass" />
+
+    </application>
+</manifest>
