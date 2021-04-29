@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:text="moduleone"
+        android:text="module—one"
         android:gravity="center"/>
 
     <TextView
@@ -17,7 +17,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:text="moduletwo"
+        android:text="module-two"
         android:gravity="center"/>
 
     <TextView
@@ -25,7 +25,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:padding="10dp"
-        android:text="modulefragment"
+        android:text="module-fragment"
         android:gravity="center"/>
 
 </LinearLayout>
